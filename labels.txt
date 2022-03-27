@@ -1,0 +1,6 @@
+Healthy
+bacterialSpot
+lateblight
+septoriaLeafSpot
+tomato_mosaic
+yellowcurved
